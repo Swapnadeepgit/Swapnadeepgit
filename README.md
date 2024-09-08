@@ -9,18 +9,52 @@
 > * 🤝**Looking forward on collaborating with various innovative data science projects.**
 > 
 > ## LANGUAGES
-> ![Python](https://camo.githubusercontent.com/55e4079e69ec5d8246620ecff24ed093877ab0f9011e71d8dec0a2c460c886ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465) ![R](https://camo.githubusercontent.com/89c0c631bae986c489a975ba0e7042d85633bc0f1dd4030c3fa9163db0f9b57b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d3237364443333f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465) ![Java](https://camo.githubusercontent.com/eb2594a194022f423b18b089fb700911d33513858db79317b06d5209b351a3ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465) ![HTML](https://camo.githubusercontent.com/bfe6a48836e87b13a16f1f56f88fee428475c2ac29247992ec9b8bcc7154f881/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465) ![CSS](https://camo.githubusercontent.com/472c222e8f240a48ae51cd9b082a1b857be809dcd851a25150890c2da50c13a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465) ![JavaScript](https://camo.githubusercontent.com/84372c7d2f1a7308844360ecad82d49b3f6cbc068a0c5e31aeea6ca5344b77ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
+> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
+
 > ## LIBRARIES
-> ![NumPy](https://camo.githubusercontent.com/1318dd7e307848664d45ca0af261158fe408e9f2d7e8a88a26115901c603ea04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d3031333234333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465) ![Pandas](https://camo.githubusercontent.com/a0b9c64c381d33217c7bfcd925f5eb12d66a539e11fd621bdb6e1ef6d7f3d0f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d3135303435383f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465) ![Seaborn](https://camo.githubusercontent.com/60ca22e94bd910178b8f857a19d8151466c29a8463ff01115e36eb7040440cdc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736561626f726e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465) ![Matplotlib](https://camo.githubusercontent.com/6bc1c5f156b54d95557dfd98cabe1b6c4fa1e651250fea18a454c7dc07f3fc88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6174706c6f746c69622d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465) ![Scikit-Learn](https://camo.githubusercontent.com/024fbc6fad2411ae4efc1766815a478c30fb479c8fcaa34ff8f50c748b1d1b0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465) ![Keras](https://camo.githubusercontent.com/efeb541ff88993ef6c61e432ee653d35bd9573f864a9941ffd0d57730d6a49b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b657261732d4430303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6b65726173266c6f676f436f6c6f723d7768697465) ![TensorFlow](https://camo.githubusercontent.com/8b65db631e94ccb3d12ef90f5faa046637bcd47c2c42c2568341b84c44690324/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465) ![PyTorch](https://camo.githubusercontent.com/d1e1e1558c545fc3599c1de28bd94b6972a7701c78093aa85d49886e87810acf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079546f7263682d4545344332433f7374796c653d666f722d7468652d6261646765266c6f676f3d7079746f726368266c6f676f436f6c6f723d7768697465)
+> <div align="center">
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</div>
+
 > ## DATABASES
-> ![SQL](https://camo.githubusercontent.com/e40c498d35a984be822434bf188632ed7d37b562b23161bd631cc916252250cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d73716c2d736572766572266c6f676f436f6c6f723d7768697465) ![MySQL](https://camo.githubusercontent.com/38be75272aa009a9a1af1a4091339991926d814bcf2a3e3df8a9b01969480872/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465) ![NoSQL](https://camo.githubusercontent.com/1d8c90f9e4011f723a2865791bcc1a6fd8d245f7742b3dca7bda8aacecf3c631/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f53514c2d3030353537313f7374796c653d666f722d7468652d6261646765266c6f676f3d6e266c6f676f436f6c6f723d7768697465) ![MongoDB](https://camo.githubusercontent.com/87a0e30618300593420d9e7f4c6da08f4a18beb2d042544d2e8519aa5908ff55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
+> <div align="center">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=n&logoColor=white" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</div>
+
 > ## Fun Facts
 > * **I spent 80% of time on Data Findings** 🔍**and rest 20% on Data Analysis.** 📈
 > 
-> ![](https://camo.githubusercontent.com/923eff39a65259f6ddfaafba30b3e8421864325b57d47b1196d9ea5e43a6f9f0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966)
+> ![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 > ## IMAGINE, WE WILL CREATE!
 > * 📫 **Let's connect and create together** You can connect me via [Linkedin](https://www.linkedin.com/in/swap27/) or reach me out at [swapnadeepghosh27@gmail.com](mailto:swapnadeepghosh27@gmail.com)
 > 
-> [ ![Instagram](https://camo.githubusercontent.com/c829c8fab3699927d90d453312a17952dd24641195b76b5e3a987a754d6a688c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f696e7374616772616d2d6e65772d2d76312e706e67) ](https://www.instagram.com/ig_swapno/) [ ![YouTube](https://camo.githubusercontent.com/cc6f5612bedafc1d17b41dc98eaf09c8973df6f71928048084cef36103fb9d36/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f796f75747562652d706c61792e706e67) ](https://www.youtube.com/@FiLThyPApeR) [ ![LinkedIn](https://camo.githubusercontent.com/d51d930386d92764b305790e73be2b9659d7c01995c5204313fb766f54646e5a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67) ](https://www.linkedin.com/in/swap27/)
-
-
+> <div align="center">
+  <a href="https://www.instagram.com/ig_swapno/">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61565418293997">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" />
+  </a>
+  <a href="https://www.youtube.com/@FiLThyPApeR" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
+  </a>
+  <a href="https://www.linkedin.com/in/swap27/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+</div>
