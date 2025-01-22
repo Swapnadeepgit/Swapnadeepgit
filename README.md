@@ -35,6 +35,12 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
+>## VISUALIZATION TOOLS
+> <div align="center">
+  <img src="https://img.shields.io/badge/Excel-20CE41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /> 
+<img src="https://img.shields.io/badge/Power_BI-F22C4C?style=for-the-badge&logo=microsoft-powerbi&logoColor=yellow" alt="Power BI" />
+</div>
+
 > ## Fun Facts
 > * **I spent 80% of time on Data Findings** 🔍**and rest 20% on Data Analysis.** 📈
 > 
